@@ -33,3 +33,5 @@ The Web is an increasingly important resource in many aspects of life: education
 - [Deque Systems](https://www.deque.com/)
 - [A11Y Project](https://www.a11yproject.com/)
 - [A11Y Weekly](https://a11yweekly.com/)
+
+- [W3 validator](https://validator.w3.org/) - Use outline option to check for heading structure
